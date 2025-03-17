@@ -78,7 +78,7 @@ Before running the pipeline, ensure you have:
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/Sanivarapu-Bhavitha/SkyTrack-Precision-Airline-Data-Pipeline-/tree/main
 cd airlinesql
 2️⃣ Install necessary Python libraries:
 
