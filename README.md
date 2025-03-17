@@ -78,7 +78,7 @@ Before running the pipeline, ensure you have:
 bash
 Copy
 Edit
-git clone https://github.com/gerardcf1/airlinesql.git
+git clone 
 cd airlinesql
 2️⃣ Install necessary Python libraries:
 
